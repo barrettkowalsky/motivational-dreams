@@ -1,0 +1,42 @@
+#background{
+    background-color:#00A6ED;
+}
+
+#cloud1{
+    margin: 5% 0 0 60%;
+}
+
+#cloud2{
+    margin:0px 0px 5% 90px;
+}
+
+#sleeping{
+    width:50%;
+    margin:0 0 0 25%;
+    border: 5px solid whitesmoke;
+    padding: 1%;
+}
+
+h1{
+    color:whitesmoke;
+    font-family: 'Nunito', sans-serif;
+    margin:0;
+    text-align:center;
+    font-size:3.5rem;
+    text-transform:uppercase;
+}
+
+p{
+    color:whitesmoke;
+    font-family: 'Nunito', sans-serif;
+    text-align:center;
+    font-size: 1.5rem;
+}
+
+img{
+    width:200px;
+}
+
+.fluffy-text{
+    font-family: 'Cherry Bomb One', cursive;
+}
